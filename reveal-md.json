@@ -1,0 +1,9 @@
+{
+    "scripts": "lib/mermaid.min.js,lib/reveal-mermaid.js",
+    "theme": "simple",
+    "revealOptions": {"transition": "fade"},
+    "highlightTheme": "github",
+    "slideNumber": "c/t",
+    "showSlideNumber": "all",
+    "css": "theme/custom.css"
+}
